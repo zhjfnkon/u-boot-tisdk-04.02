@@ -16,6 +16,8 @@
 #ifndef __CONFIG_AM335X_EVM_H
 #define __CONFIG_AM335X_EVM_H
 
+#define CONFIG_NAND
+
 #include <configs/ti_am335x_common.h>
 
 #ifndef CONFIG_SPL_BUILD
